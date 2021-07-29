@@ -3,6 +3,11 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+hr{
+    width: 5%;
+    margin: 0 auto;
+    background: #E76F51;
+}
 .header-section{
     background: #264653;
 }
@@ -17,4 +22,7 @@ body{
 }
 .btn-style{
     background: #E76F51;
+}
+.gray{
+    filter: grayscale(100%);
 }
