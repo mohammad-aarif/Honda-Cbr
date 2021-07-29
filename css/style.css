@@ -26,3 +26,13 @@ hr{
 .gray{
     filter: grayscale(100%);
 }
+
+.accordion-item{
+    border:none;
+    background: none;
+    color: #424242;
+}
+button.accordio-button{
+    box-sizing: border-box;
+    border:none !important;
+}
