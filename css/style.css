@@ -1,0 +1,20 @@
+/* Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header-section{
+    background: #264653;
+}
+.header-section h1{
+    font-size: 3rem;
+    color:#fff;
+}
+.header-section p{
+    font-weight: 100;
+    color: #e0e0e0;
+    font-size: .9rem;
+}
+.btn-style{
+    background: #E76F51;
+}
