@@ -8,6 +8,9 @@ hr{
     margin: 0 auto;
     background: #E76F51;
 }
+i{
+    font-size: .9rem;
+}
 .header-section{
     background: #264653;
 }
@@ -22,6 +25,7 @@ hr{
 }
 .btn-style{
     background: #E76F51;
+    font-size: .8rem;
 }
 .gray{
     filter: grayscale(100%);
@@ -32,7 +36,9 @@ hr{
     background: none;
     color: #424242;
 }
-button.accordio-button{
-    box-sizing: border-box;
-    border:none !important;
+.why-us{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.397),rgba(0, 0, 0, 0.8)),url(../images/feature-bike.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
